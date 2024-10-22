@@ -8,3 +8,4 @@ changes from dev
 india
 UK
 USA
+NZ
