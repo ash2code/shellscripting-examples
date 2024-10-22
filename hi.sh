@@ -7,7 +7,7 @@ australia
 changes from dev
 india
 UK
-USA
+USA-America
 NZ
 WI
 Bharat
